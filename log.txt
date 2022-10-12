@@ -1,0 +1,41 @@
+commit 973229c4c6d3a61c5da9b64fd40d384f8152b041
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Tue Oct 11 12:49:19 2022 -0500
+
+    Cambio de una version por una antigua
+
+commit f80de2b09f6f92872d6e2458d07b0782246206c0
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Tue Oct 11 12:45:48 2022 -0500
+
+    pusimos tambien sobre su carrera
+
+commit 7af49a5bb177230f1459149189cf789ac42194e9
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Tue Oct 11 12:44:54 2022 -0500
+
+    cambio de historia por vida
+
+commit 0d1e9c20c04e13cceb431ad24e5de03c3fb7ff31
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Tue Oct 11 12:44:13 2022 -0500
+
+    arrranco mi proyecto con html y css
+
+commit 3eb9dcd80ec6fdd7306847dfcb6c2bb54f2f6b2c
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Tue Oct 11 11:36:25 2022 -0500
+
+    Agregamos un cambio a su estatura
+
+commit e8ea7f88b8d08fba61e8cd853e4671e52222894f
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Tue Oct 11 11:25:06 2022 -0500
+
+    Cambios al archivo de historia
+
+commit 97df32f29921ad4fa0739e883933967f068234b8
+Author: marlonfg12 <100481966+marlonfg12@users.noreply.github.com>
+Date:   Tue Oct 11 11:20:13 2022 -0500
+
+    Este es el primer commit de este archivo
