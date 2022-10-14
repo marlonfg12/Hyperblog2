@@ -18,3 +18,7 @@ Un blog Increible para el curso Git y Github de platzi
 # Derechos
 
 * Creado por el increible platzi TEAM
+
+* Incluye ejemplos en linux windows y mac
+
+* Disponible para todas las edades
