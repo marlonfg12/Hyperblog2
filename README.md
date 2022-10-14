@@ -15,3 +15,6 @@ Un blog Increible para el curso Git y Github de platzi
 
 > fsaf saf0afmajda sadjajdjagit 
 
+# Derechos
+
+* Creado por el increible platzi TEAM
