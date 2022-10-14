@@ -1,3 +1,45 @@
+commit 442a9eeae5d58a0e7f63d0cb68057161194b563d
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Fri Oct 14 09:37:10 2022 -0500
+
+    Nose que hicer
+
+commit e3b23b1d2cca0d5fd9f95fdaeb5b9224aa10e9f6
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Fri Oct 14 09:17:45 2022 -0500
+
+    Experimento rebase
+
+commit 572a1446bb00336b5ea447050e779e3df359ebf3
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Fri Oct 14 09:18:29 2022 -0500
+
+    Master 1 y 2
+
+commit f600e7c0f5d2224df687c887f32ed799b8dc2ca4
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Fri Oct 14 08:17:24 2022 -0500
+
+    Agregacion del readme
+
+commit b6df119ed3af4da2119a61a92eb4f3dc7e142c24
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Fri Oct 14 08:15:20 2022 -0500
+
+    Creacion del README.md para dar una explicacion
+
+commit ad7abf3dfdb80d4f77258f9018f262a58b2edd3d
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Fri Oct 14 07:45:56 2022 -0500
+
+    Agrege otro tipo de archivo al gitignore
+
+commit 22f0bd1d1c9052ce49b7f9e57ab460a1bcf731bd
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Fri Oct 14 07:44:36 2022 -0500
+
+    Agrege los commits mas reciente
+
 commit 894718896f492329e1e049f77095d98ced40b721
 Author: Marlon Florez <marlonfg1234@gmail.com>
 Date:   Fri Oct 14 07:37:07 2022 -0500
