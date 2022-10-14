@@ -1,3 +1,168 @@
+commit 894718896f492329e1e049f77095d98ced40b721
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Fri Oct 14 07:37:07 2022 -0500
+
+    Agrege un git ignore
+
+commit e1f4592b91dbf310bf75fd38d2ab4beb34a075b2
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Thu Oct 13 07:25:11 2022 -0500
+
+    Cambio de titulo
+
+commit 28c3f5958890f64d9296f2e246dff32576db1a61
+Merge: 2d42ab4 4be12b5
+Author: marlonfg12 <100481966+marlonfg12@users.noreply.github.com>
+Date:   Thu Oct 13 07:22:23 2022 -0500
+
+    Merge pull request #3 from MarlonC1/master
+    
+    Cambios de definiciones y agregación de un titulo
+
+commit 4be12b527cb4766f671fa62caf7c2ab5de697fc4
+Author: MarlonC1 <115663236+MarlonC1@users.noreply.github.com>
+Date:   Thu Oct 13 07:17:22 2022 -0500
+
+    Cambios de definiciones
+
+commit 2d42ab4c4219174bf209a148bb57f452da8f003f
+Merge: cbbc9dd f281755
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 22:03:43 2022 -0500
+
+    Merge branch 'master' of github.com:marlonfg12/Hyperblog2
+
+commit cbbc9dda928a9e73cbf8f2c2093871b31a52a990
+Merge: e134a84 88f8f52
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 21:51:18 2022 -0500
+
+    Merge branch 'header' Union de master con header
+
+commit e134a84bddfbd4cae9dd2a9bb26c6570818fcdb9
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 21:49:11 2022 -0500
+
+    Cambio de version a 2.0
+
+commit 88f8f52970c017f8b87a020ff88b71e16db09126
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 21:47:05 2022 -0500
+
+    Creacion del header con lista no ordenada
+
+commit f2817554b79941d762e5f1e5563d2a326329fc6d
+Merge: befe3b9 5f3fd68
+Author: MarlonC1 <115663236+MarlonC1@users.noreply.github.com>
+Date:   Wed Oct 12 19:13:05 2022 -0500
+
+    Merge pull request #2 from marlonfg12/footer
+    
+    Actualizacion del footer con flex-box & Grid
+
+commit 5f3fd68da884f3c22ee08e31bd359f40d5843af0
+Author: MarlonC1 <115663236+MarlonC1@users.noreply.github.com>
+Date:   Wed Oct 12 19:09:22 2022 -0500
+
+    Actualizacion del footer con flex-box & Grid
+    
+    Solución requerida cumplida.
+
+commit befe3b9933712252dd29aa7c7ca5c97d104c5ad2
+Merge: 15c415f 13c7bf4
+Author: MarlonC1 <115663236+MarlonC1@users.noreply.github.com>
+Date:   Wed Oct 12 15:36:06 2022 -0500
+
+    Merge pull request #1 from marlonfg12/fix-type
+    
+    Arreglar las tildes
+
+commit 13c7bf43f487fb695412425c81837949662067da
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 15:32:00 2022 -0500
+
+    Cambio tildes a entidades html
+
+commit b53b83433f81a7d3896d4084d8ffd06cbeb57754
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 15:24:12 2022 -0500
+
+    Arreglar las tildes
+
+commit 15c415f7b4b2699d6f22308f66a4eaf0a90bd9e1
+Author: MarlonC1 <115663236+MarlonC1@users.noreply.github.com>
+Date:   Wed Oct 12 14:22:48 2022 -0500
+
+    Agregacion de un footer
+
+commit 25502cfc03dfa76d781a3eedf920fbcb185370e5
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 13:20:02 2022 -0500
+
+    Cambio de titulo de la pagina
+
+commit 23984a752e8bb8f2dcbb8f0ab9363ff9c749fd4d
+Author: marlonfg12 <100481966+marlonfg12@users.noreply.github.com>
+Date:   Wed Oct 12 12:35:07 2022 -0500
+
+    Agrege un nuevo parrafi
+
+commit 2fa340f9145b0272898f18b063515e4e76668a97
+Merge: 1e02bc0 02bb413
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 12:17:55 2022 -0500
+
+    Resolvi el conflicto del merge
+
+commit 1e02bc050e34da3204e4ed4ef1f515f2cdef4525
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 12:14:22 2022 -0500
+
+    Agrege un nuevo parrafo modifique la cabecera y el color de texto
+
+commit 02bb413e057ef8f1468e2299ac71072374b802f0
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 12:13:06 2022 -0500
+
+    Modifique la cabecera y el olor del texto
+
+commit c33f3fa17eb86c9142fed510cdd73f55296bc8b5
+Merge: 1c2c9cd 4784fae
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 12:03:25 2022 -0500
+
+    Merge branch 'cabeccera'
+
+commit 1c2c9cd9fa4bd25e292617a4c66a18521d69131d
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 12:01:08 2022 -0500
+
+    Agregado el contenido adicional al blog y con una mejor tipografia
+
+commit 4784fae5e0e4db68b6bebc3e003d1bb14c0624f5
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 11:59:09 2022 -0500
+
+    Finalizada la cabecera con diseño azul
+
+commit 327d6c17e099fc5ed1abbb265772e2e3faeeb01b
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 11:47:14 2022 -0500
+
+    Estructura de la cabecera
+
+commit 769e1813869d38970ef45369ae6593d541a93dd9
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 11:26:34 2022 -0500
+
+    Se actualizo el html y el css en su version mas reciente
+
+commit 71d1921269ad61e77aa330f9ebb103db48087cd1
+Author: Marlon Florez <marlonfg1234@gmail.com>
+Date:   Wed Oct 12 10:54:31 2022 -0500
+
+    Agrego todos los commits a un archivo
+
 commit 973229c4c6d3a61c5da9b64fd40d384f8152b041
 Author: Marlon Florez <marlonfg1234@gmail.com>
 Date:   Tue Oct 11 12:49:19 2022 -0500
